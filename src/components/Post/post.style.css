@@ -1,0 +1,16 @@
+input{
+    width:200px;
+}
+
+button{
+    width:110px;
+    margin-bottom:10px;
+}
+.input-box{
+    width:400px;
+    height:100px;
+    resize:none;
+    box-shadow: 0 0 10px #bac3c3;
+    font-size: 15px;
+    /* border-color: aqua; */
+}
